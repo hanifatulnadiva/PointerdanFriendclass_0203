@@ -4,5 +4,7 @@ using namespace std;
 class persegiPanjang
 {
     public:
+        int panjang, lebar;
         
+
 };
